@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -25,9 +26,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
