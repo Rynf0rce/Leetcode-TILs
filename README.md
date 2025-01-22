@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
