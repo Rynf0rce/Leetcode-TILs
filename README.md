@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 ## Counting
@@ -173,5 +175,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
