@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1558-course-schedule-iv) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
