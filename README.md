@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Brainteaser
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 ## Data Stream
 |  |
