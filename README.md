@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1876-map-of-highest-peak](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2434-design-a-number-container-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
