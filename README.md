@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -216,10 +218,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
