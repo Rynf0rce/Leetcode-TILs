@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0070-climbing-stairs) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
 |  |
 | ------- |
