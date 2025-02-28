@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0070-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
