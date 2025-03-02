@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0407-trapping-rain-water-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0407-trapping-rain-water-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
@@ -257,6 +260,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
