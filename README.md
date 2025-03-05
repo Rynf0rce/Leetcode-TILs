@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
