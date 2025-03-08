@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0070-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
