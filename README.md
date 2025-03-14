@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
