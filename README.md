@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
