@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2649-count-total-number-of-colored-cells) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3227-find-missing-and-repeated-values) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3430-count-days-without-meetings) |
