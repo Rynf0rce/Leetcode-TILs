@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
