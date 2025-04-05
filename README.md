@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1876-map-of-highest-peak](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -354,4 +358,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
