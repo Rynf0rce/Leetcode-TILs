@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2280-count-good-triplets-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
