@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Memoization
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
