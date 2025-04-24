@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2685-first-completely-painted-row-or-column](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3548-find-the-count-of-good-integers) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
