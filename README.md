@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
