@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0868-push-dominoes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2699-count-the-number-of-fair-pairs) |
