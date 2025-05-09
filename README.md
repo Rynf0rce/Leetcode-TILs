@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3548-find-the-count-of-good-integers) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3637-count-number-of-balanced-permutations) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Memoization
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
