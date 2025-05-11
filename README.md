@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
+| [1293-three-consecutive-odds](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1421-find-numbers-with-even-number-of-digits) |
