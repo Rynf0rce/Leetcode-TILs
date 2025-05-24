@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3321-type-of-triangle) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
