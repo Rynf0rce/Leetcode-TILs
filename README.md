@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2262-solving-questions-with-brainpower) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0820-find-eventual-safe-states](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3629-total-characters-in-string-after-transformations-i) |
