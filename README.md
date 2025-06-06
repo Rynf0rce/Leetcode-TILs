@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2434-design-a-number-container-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2681-put-marbles-in-bags) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Brainteaser
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2348-count-number-of-texts](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2348-count-number-of-texts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 ## Data Stream
 |  |
