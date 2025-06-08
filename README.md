@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -522,4 +523,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
