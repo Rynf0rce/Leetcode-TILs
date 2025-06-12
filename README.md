@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
