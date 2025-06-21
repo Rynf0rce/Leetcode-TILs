@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3548-find-the-count-of-good-integers) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Brainteaser
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Design
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
