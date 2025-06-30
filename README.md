@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0075-sort-colors](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [0797-rabbits-in-forest](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2394-count-subarrays-with-score-less-than-k) |
