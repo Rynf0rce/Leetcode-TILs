@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2448-count-number-of-bad-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2551-apply-operations-to-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2681-put-marbles-in-bags) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0768-partition-labels](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2699-count-the-number-of-fair-pairs) |
