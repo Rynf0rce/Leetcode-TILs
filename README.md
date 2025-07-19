@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0854-making-a-large-island](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -569,4 +572,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
