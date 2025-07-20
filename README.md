@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2215-finding-3-digit-even-numbers) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -573,4 +576,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0386-lexicographical-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
