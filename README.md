@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2915-count-of-interesting-subarrays](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3643-zero-array-transformation-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2998-count-symmetric-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3548-find-the-count-of-good-integers) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
