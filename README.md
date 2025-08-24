@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1170-shortest-common-supersequence) |
 | [1290-make-array-strictly-increasing](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1290-make-array-strictly-increasing) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1477-product-of-the-last-k-numbers](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1656-count-good-triplets) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0658-find-k-closest-elements](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Rynf0rce/Leetcode-TILs/tree/master/2478-longest-nice-subarray) |
